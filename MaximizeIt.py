@@ -1,5 +1,4 @@
 K,M = map(int,input().split())
-values = []
 values = (list(map(int,input().split()))[1:] for i in range(K))
 
 from itertools import product
