@@ -1,10 +1,4 @@
-#!/bin/python3
-
-import math
-import os
-import random
 import re
-import sys
 import operator
 from functools import reduce
 
